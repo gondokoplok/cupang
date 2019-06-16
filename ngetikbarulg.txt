@@ -2,8 +2,6 @@ a
 b
 c 
 -abcdefg
-
 sdasdasdadadadads
+nambah a
 
-
-namb b
